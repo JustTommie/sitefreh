@@ -1,3 +1,7 @@
+div#container{
+    width: 800px;   
+}
+
 body{
     text-align: center;
     background-color: powderblue ;
