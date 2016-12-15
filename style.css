@@ -6,7 +6,7 @@ div#container{
 body{
     text-align: center;
     background-color: powderblue ;
-    text-align: center;
+    margin: 0 auto;
 }
 
 p{
