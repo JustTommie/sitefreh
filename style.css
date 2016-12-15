@@ -1,11 +1,12 @@
 div#container{
     width: 800px;
-    background-color: rgba(255, 255, 255, 0,1) ;
+    background-color:rgba(192,192,192,0.3);
 }
 
 body{
     text-align: center;
     background-color: powderblue ;
+    text-align: center;
 }
 
 p{
